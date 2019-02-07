@@ -2,7 +2,7 @@ import Foundation
 import Basic
 import Utility
 
-printHelloWorld()
+Basic.printHelloWorld()
 /*
 Subcommand
 
