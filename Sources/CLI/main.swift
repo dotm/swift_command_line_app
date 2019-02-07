@@ -2,6 +2,7 @@ import Foundation
 import Basic
 import Utility
 
+printHelloWorld()
 /*
 Subcommand
 
